@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <span style="display: flex;">
-    <a href="https://linkedin.com/in/thien thach" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien-thach-2a927b190" height="30" width="40" />
+    <a href="https://linkedin.com/in/thien-thach-2a927b190" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien thach" height="30" width="40" />
     </a>
     <a href="https://fb.com/huỳnh đặng thiên thạch" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huỳnh đặng thiên thạch" height="30" width="40" />
